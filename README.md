@@ -1,5 +1,4 @@
 # Nabeel Chughtai's GitHub Profile
-![Header]([nabc2023/header.png](https://github.com/nabc2023/nabc2023/blob/main/header.png))
 
 Welcome to my GitHub profile! I'm passionate about technology and actively seeking opportunities in the IT field. I am dedicated to continuous learning, problem-solving, and collaborating with others to develop innovative solutions. Below you'll find an overview of my skills, projects, and contact information. Let's connect and create something amazing together!
 
