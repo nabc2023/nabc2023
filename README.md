@@ -1,4 +1,4 @@
-[![Header](github-header-image.png)](https://github.com/nabc2023/)
+[![Header](header.png)](https://github.com/nabc2023/)
 
 
 <h3 align="center">Motivated Aeronautical Engineer skilled in software development and automation, with field engineering experience and a passion for innovative solutions.</h3>
