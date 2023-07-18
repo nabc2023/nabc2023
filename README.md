@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](C:\Users\nabee\Downloads)](github-header-image)
 
 <h3 align="center">Motivated Aeronautical Engineer skilled in software development and automation, with field engineering experience and a passion for innovative solutions.</h3>
 
