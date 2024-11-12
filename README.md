@@ -1,11 +1,10 @@
 [![Header](header.png)](https://github.com/nabc2023/)
 
 
-<h3 align="center">Motivated Aeronautical Engineer skilled in software development and automation, with field engineering experience and a passion for innovative solutions.</h3>
+<h3 align="center">An IT Engineer with a knack for solving technical problems and thinking outside the box.</h3>
 
 - 📫 How to reach me **nabeelchughtai1@outlook.com**
 
-- ⚡ Fun fact **With my diverse background in roles ranging from a pizza shop owner to a delivery driver, I have mastered the art of both making delicious pizzas and ensuring they arrive promptly to hungry customers!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
