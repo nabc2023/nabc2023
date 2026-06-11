@@ -1,7 +1,7 @@
 (https://github.com/nabc2023/)
 
 
-<h3 align="center">An IT Engineer with a knack for solving technical problems and thinking outside the box.</h3>
+<h3 align="center">Sys Admin</h3>
 
 - 📫 How to reach me **nabeelchughtai1@outlook.com**
 
